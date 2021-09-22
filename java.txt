@@ -1,4 +1,4 @@
 public 
 statis
-void
+void summmation
 main
